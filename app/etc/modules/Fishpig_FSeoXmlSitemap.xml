@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<config>
+	<modules>
+		<Fishpig_FSeoXmlSitemap>
+			<active>true</active>
+			<codePool>community</codePool>
+			<depends>
+				<Fishpig_FSeo />
+			</depends>
+		</Fishpig_FSeoXmlSitemap>
+	</modules>
+</config>
